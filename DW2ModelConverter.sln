@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DW2ModelParser", "DW2ModelParser\DW2ModelParser.csproj", "{83352B6B-2A4D-4FF6-986C-0D262F0DFFC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DW2ModelParserTests", "DW2ModelParserTests\DW2ModelParserTests.csproj", "{C6AF6E6D-EDD6-43A2-A1CB-C7DB713E26A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83352B6B-2A4D-4FF6-986C-0D262F0DFFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83352B6B-2A4D-4FF6-986C-0D262F0DFFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83352B6B-2A4D-4FF6-986C-0D262F0DFFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83352B6B-2A4D-4FF6-986C-0D262F0DFFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AF6E6D-EDD6-43A2-A1CB-C7DB713E26A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AF6E6D-EDD6-43A2-A1CB-C7DB713E26A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AF6E6D-EDD6-43A2-A1CB-C7DB713E26A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AF6E6D-EDD6-43A2-A1CB-C7DB713E26A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F152BD2-8609-47C0-92AD-8CE917741C9D}
+	EndGlobalSection
+EndGlobal
